@@ -1,3 +1,6 @@
 jupyterlab
 scipy
 numpy
+matplotlib
+plotnine
+pandas
