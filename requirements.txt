@@ -4,3 +4,5 @@ numpy
 matplotlib
 plotnine
 pandas
+arviz
+tqdm

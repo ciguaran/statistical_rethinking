@@ -35,3 +35,10 @@ Class 2
 
 - Fiting mechanism is part of the model.
 
+Chapter 3:
+
+Compatibility interval: two parameters whose interval contains certain amount of probability mass
+Percentile intervals: assign equal probability mass to each tail
+Highest posterior density interval.
+
+Usages of simulations: model design, research design, software testing, model checking and forecasting.
