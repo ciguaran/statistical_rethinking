@@ -8,3 +8,7 @@ Code and Notes for Statistical Rethinking Course
 [Pymc fork](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)
 
 [Notes](./notes.md)
+
+To-dos: 
+
+- Chapter 4: Complete Splines example

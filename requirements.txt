@@ -6,3 +6,5 @@ plotnine
 pandas
 arviz
 tqdm
+seaborn
+git+https://github.com/pymc-devs/pymc@v3
